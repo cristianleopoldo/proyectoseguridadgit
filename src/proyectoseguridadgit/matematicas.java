@@ -24,4 +24,8 @@ public class matematicas {
         return x+y;
                 
     }
+      public int sumar4(int x, int y){
+        return x+y;
+                
+    }
 }
