@@ -13,10 +13,12 @@ public class matematicas {
     
     public int sumar(int x, int y){
         return x+y;
-        
-        
+                
     }
-    
+    public int sumar2(int x, int y){
+        return x+y;
+                
+    }
     
     
 }
