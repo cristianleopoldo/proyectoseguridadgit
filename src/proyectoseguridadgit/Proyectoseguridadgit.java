@@ -20,7 +20,11 @@ public class Proyectoseguridadgit {
         // TODO code application logic here
         
         System.out.println("hola mundo !!");
-        
+         System.out.println("hola escom !!");
+         int x;
+         int[] vector;
+         List<String> lista;
+         String nombre = "";
     }
     
     
